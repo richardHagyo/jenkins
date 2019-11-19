@@ -16,6 +16,13 @@ public class Pogram {
 		System.out.println("sub: " + simple_calc.substract(12, 6));
 		System.out.println("mul: " + simple_calc.mul(12, 6));
 		System.out.println("div: " + simple_calc.div(12, 6));
+		
+		System.out.println();
+		
+		System.out.println("add: " + simple_calc.add(64, 6));
+		System.out.println("sub: " + simple_calc.substract(74, 6));
+		System.out.println("mul: " + simple_calc.mul(453, 6));
+		System.out.println("div: " + simple_calc.div(23, 6));
 	}
 
 }
